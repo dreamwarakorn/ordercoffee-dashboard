@@ -1,0 +1,6 @@
+framework module Pods_OrderCoffee {
+  umbrella header "Pods-OrderCoffee-umbrella.h"
+
+  export *
+  module * { export * }
+}
